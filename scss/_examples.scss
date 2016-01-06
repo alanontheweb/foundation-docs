@@ -122,16 +122,3 @@ body > .off-canvas {
   backface-visibility: hidden;
 }
 
-@include mui-series {
-  #series-example-1 {
-    @include mui-queue(0.5s, 0s, fade, slide(in, up));
-  }
-
-  #series-example-2 {
-    @include mui-queue(0.5s, 0.5s, fade, spin);
-  }
-
-  #series-example-3 {
-    @include mui-queue(0.5s, 0s, fade, hinge(in, bottom));
-  }
-}
