@@ -3,6 +3,10 @@
     [
       "github:alanontheweb/foundation-docs#master",
       "/Users/alanroy/Documents/Projects/design-7"
+    ],
+    [
+      "github:alanontheweb/foundation-docs#master",
+      "/Users/alanroy/Documents/Projects/design-7"
     ]
   ],
   "_from": "alanontheweb/foundation-docs#master",
@@ -36,8 +40,8 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "git://github.com/alanontheweb/foundation-docs.git#3c5d3b50ab5bab11a633817cf05e003df4347821",
-  "_shasum": "43faac9d2acf89ef78db5453dbdfb25ffe5f090b",
+  "_resolved": "git://github.com/alanontheweb/foundation-docs.git#d549664efd0f35e13d1ee775b2d85659714a47a3",
+  "_shasum": "7d77184d151bba4ae4a05111ea58ddb2980f5bf2",
   "_shrinkwrap": null,
   "_spec": "github:alanontheweb/foundation-docs#master",
   "_where": "/Users/alanroy/Documents/Projects/design-7",
